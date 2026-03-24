@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\.next\\dev",
+    "\\app",
+    "\\app\\truyen",
+    "\\app\\truyen\\[slug]",
+    "\\data"
+  ],
+  "SelectedNode": "\\app\\truyen\\[slug]\\page.tsx",
+  "PreviewInSolutionExplorer": false
+}

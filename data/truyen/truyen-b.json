@@ -1,0 +1,11 @@
+{
+  "slug": "truyen-b",
+  "title": "Truyện B",
+  "chapters": [
+    { "slug": "chap-1", "title": "Chap 1", "content": "B - Nội dung chap 1..." },
+    { "slug": "chap-2", "title": "Chap 2", "content": "B - Nội dung chap 2..." },
+    { "slug": "chap-3", "title": "Chap 3", "content": "B - Nội dung chap 3..." },
+    { "slug": "chap-4", "title": "Chap 4", "content": "B - Nội dung chap 4..." },
+    { "slug": "chap-5", "title": "Chap 5", "content": "B - Nội dung chap 5..." }
+  ]
+}
