@@ -42,7 +42,17 @@ export default async function Page({
             ← Chap trước
           </Link>
         )}
+        <div style={{ marginTop: 30, padding: 15, background: "#fff3cd" }}>
+  <p>🔥 Gợi ý sản phẩm hay:</p>
 
+  <a
+    href="https://www.facebook.com/daotoan2002/?locale=vi_VN"
+    target="_blank"
+    style={{ color: "red", fontWeight: "bold" }}
+  >
+    👉 Mua ngay trên Shopee
+  </a>
+</div>
         {" | "}
 
         {next && (
